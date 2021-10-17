@@ -22,7 +22,7 @@ I've modified this project to be usable for Laurea RN course.
   ```
 
 - Run the app:
-  ```bash
+  ```diff
 -   npm start
 +   npm run dev
   ```
