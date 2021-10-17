@@ -22,10 +22,10 @@ I've modified this project to be usable for Laurea RN course.
   ```
 
 - Run the app:
-  ```diff
+```diff
 -   npm start
 +   npm run dev
-  ```
+```
 
 # APIs and Payload
 
