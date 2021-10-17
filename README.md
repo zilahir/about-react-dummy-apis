@@ -1,3 +1,7 @@
+# DISCLAIMER
+
+I've modified this project to be usable for Laurea RN course.
+
 # To Run the Project
 
 - Clone Repo
@@ -19,7 +23,8 @@
 
 - Run the app:
   ```bash
-   npm start
+-   npm start
++   npm run dev
   ```
 
 # APIs and Payload
